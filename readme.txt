@@ -1,1 +1,2 @@
-git is good!
+git is god~!
+git is ok
