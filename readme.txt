@@ -1,4 +1,4 @@
-git is god~!
+git is god~!i
 git is ok
 git is very ok
 4th change
@@ -7,3 +7,6 @@ git is very ok
 <<<<<<< HEAD
 cafsd fd  ffd  reafadsing aafds  dfn ew brdaf  dfa e   iafadsing aafds  dfn ew branch dev fda
 >>>>>>> feature1
+
+
+new com 
